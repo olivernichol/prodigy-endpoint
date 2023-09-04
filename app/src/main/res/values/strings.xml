@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProdigyEndpoint</string>
+    <string name="service_name">NotificationWatchdog</string>
+</resources>
